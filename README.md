@@ -65,14 +65,13 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Sustituye TU_USUARIO en las tres direcciones. -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Ezequiel" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Ezequiel" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Ezequiel" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Ezequiel" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
+<img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
 
 </div>
 
@@ -81,8 +80,8 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 ¿Tienes una idea, una oportunidad profesional o un proyecto en el que podamos colaborar? Escríbeme:
 
 - 💼 LinkedIn: [TU_NOMBRE_EN_LINKEDIN](https://www.linkedin.com/in/TU_LINKEDIN)
-- 🌐 Portafolio: [TU_PORTAFOLIO.com](https://TU_PORTAFOLIO.com)
-- 📧 Correo: [TU_EMAIL](mailto:ezerodhd@gmail.com)
+- 🌐 Portafolio: [](https://TU_PORTAFOLIO.com)
+- 📧 Correo: [ezerodhd@gmail.com](mailto:ezerodhd@gmail.com)
 
 ---
 
