@@ -74,6 +74,15 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Ezequiel" />
 <img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
 
+<p align="center">
+
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</p>
 ## 🚀 Proyectos destacados
 
 <!-- Reemplaza estos ejemplos con tus mejores proyectos. -->
