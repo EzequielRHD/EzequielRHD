@@ -68,8 +68,7 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
   </a>
 </p>
 <div align="center">
-<img
-width="70%"
+<img width="70%"
 src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true"/>
 
 </div>
