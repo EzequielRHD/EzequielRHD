@@ -66,8 +66,9 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+<p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
-
+</p>
 ## 🚀 Proyectos destacados
 
 <!-- Reemplaza estos ejemplos con tus mejores proyectos. -->
