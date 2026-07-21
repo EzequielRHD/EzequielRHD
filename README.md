@@ -37,19 +37,19 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ### Lenguajes
 
-[![Lenguajes](https://skillicons.dev/icons?i=js,ts,python,java,cs&theme=dark)](https://skillicons.dev)
+[![Lenguajes](https://skillicons.dev/icons?i=js,ts,python,cs,php&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,angular,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,angular&theme=dark)](https://skillicons.dev)
 
 ### Backend y bases de datos
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mariadb,sqlserver&theme=dark)](https://skillicons.dev)
 
 ### Herramientas y plataformas
 
-[![Herramientas](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma&theme=dark)](https://skillicons.dev)
+[![Herramientas](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,codex&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -70,7 +70,6 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Ezequiel" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Ezequiel" />
-
 <img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
 
 </div>
@@ -79,7 +78,7 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ¿Tienes una idea, una oportunidad profesional o un proyecto en el que podamos colaborar? Escríbeme:
 
-- 💼 LinkedIn: [TU_NOMBRE_EN_LINKEDIN](https://www.linkedin.com/in/TU_LINKEDIN)
+- 💼 LinkedIn: [](https://www.linkedin.com/in/TU_LINKEDIN)
 - 🌐 Portafolio: [](https://TU_PORTAFOLIO.com)
 - 📧 Correo: [ezerodhd@gmail.com](mailto:ezerodhd@gmail.com)
 
