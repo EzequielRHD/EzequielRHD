@@ -1,4 +1,4 @@
-## Hi there 👋
+![Aditya Kanoi Banner]https://github.com/EzequielRHD/EzequielRHD/blob/main/3146b75d-4d6d-44b0-81e9-3576ffa80e7b.png)
 
 <!--
 **EzequielRHD/EzequielRHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
