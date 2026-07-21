@@ -59,33 +59,15 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ## 📊 Estadísticas de GitHub
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub 
+<div align="center"> 
+  <p align="center"> <a href="https://github.com/EzequielRHD"> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielRHD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> </a> 
+    <a href="https://github.com/EzequielRHD"> <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=algolia)"/> </a> </p> </div> 
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Ezequiel" /> 
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Ezequiel" /> 
+    <img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
 
-<p align="center">
-  <a href="https://github.com/EzequielRHD">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=E6EDF3&icon_color=38BDF8&border_radius=8&v=2"
-      alt="Estadísticas de GitHub de Ezequiel"
-    />
-  </a>
-
-  <a href="https://github.com/EzequielRHD">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&langs_count=8&hide_border=true&bg_color=07152B&title_color=38BDF8&text_color=E6EDF3&border_radius=8&v=2"
-      alt="Lenguajes de programación de Ezequiel"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=EzequielRHD&hide_border=true&background=07152B&ring=38BDF8&fire=38BDF8&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=9FB3C8&stroke=07152B&border_radius=8&v=2"
-    alt="Racha de contribuciones de Ezequiel"
-  />
-</p>
 ## 🚀 Proyectos destacados
 
 <!-- Reemplaza estos ejemplos con tus mejores proyectos. -->
