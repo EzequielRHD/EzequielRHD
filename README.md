@@ -22,12 +22,13 @@ Construyo soluciones eficientes, escalables y centradas en las personas.
 
 Soy desarrollador de software con interés en crear productos digitales útiles, mantenibles y de alta calidad. Disfruto convertir ideas y necesidades de negocio en soluciones tecnológicas claras, colaborando con equipos y aprendiendo continuamente.
 
-- 🔭 Actualmente trabajo en **Sistema Nacional de Atención a Emergencias y Seguridad 911**.
-- 🌱 Estoy aprendiendo **TECNOLOGÍA_O_TEMA**.
-- 👯 Me interesa colaborar en **TIPO_DE_PROYECTOS**.
-- 💬 Puedes preguntarme sobre **TUS_TEMAS_FAVORITOS**.
-- 🎯 Mi objetivo es **TU_OBJETIVO_PROFESIONAL**.
-- ⚡ Dato curioso: **ALGO_INTERESANTE_SOBRE_TI**.
+
+- 🔭 Actualmente trabajo como **Software Engineer** en el **Sistema Nacional de Atención a Emergencias y Seguridad 911**.
+- 🌱 Actualmente estoy profundizando en **DevOps, Docker, Kubernetes, Arquitectura de Software e Inteligencia Artificial aplicada al desarrollo**.
+- 👯 Me interesa colaborar en **proyectos Open Source, aplicaciones SaaS, sistemas empresariales y soluciones Full Stack**.
+- 💬 Puedes preguntarme sobre **Laravel, PHP, React, Next.js, TypeScript, Node.js, MySQL, Docker, Linux y arquitectura de software**.
+- 🎯 Mi objetivo es convertirme en un **Software Architect**, diseñando soluciones escalables y de alto impacto.
+- ⚡ Dato curioso: además de desarrollar software, estoy construyendo mi propio **HomeLab** para experimentar con servidores, redes, automatización y servicios self-hosted.
 
 ## 🛠️ Tecnologías y herramientas
 
