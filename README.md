@@ -55,6 +55,8 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 [![Tegnologias](https://skillicons.dev/icons?i=linux,anaconda,arduino&theme=dark)](https://skillicons.dev)
 
+</div>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -65,7 +67,7 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-</div>
+
 
 ## 🚀 Proyectos destacados
 
