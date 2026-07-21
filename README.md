@@ -41,15 +41,21 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,angular&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,angular,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Backend y bases de datos
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mariadb,sqlserver&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,npm,pnpm&theme=dark)](https://skillicons.dev)
 
 ### Herramientas y plataformas
 
-[![Herramientas](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,codex&theme=dark)](https://skillicons.dev)
+[![Herramientas](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,visualstudio&theme=dark)](https://skillicons.dev)
+
+### Otras Tecnologias
+
+[![Tegnologias](https://skillicons.dev/icons?i=linux,anaconda,arduino&theme=dark)](https://skillicons.dev)
+
+
 
 </div>
 
