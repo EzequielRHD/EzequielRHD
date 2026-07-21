@@ -61,14 +61,15 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 
 <div align="center">
-<p align="center">
-  <a href="https://github.com/EzequielRHD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielRHD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/EzequielRHD">
-    <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=algolia)"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/EzequielRHD">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielRHD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/EzequielRHD">
+      <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=algolia)"/>
+    </a>
+  </p>
+</div>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Ezequiel" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Ezequiel" />
 <img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
