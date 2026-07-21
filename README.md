@@ -77,12 +77,20 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 <!-- Reemplaza estos ejemplos con tus mejores proyectos. -->
 
+## 🚀 Proyectos Destacados
+
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |---|---|---|---|
-| **NOMBRE DEL PROYECTO 1** | Explica en una frase qué problema resuelve y cuál fue tu aporte. | `React` `Node.js` `PostgreSQL` | [Código](https://github.com/TU_USUARIO/REPOSITORIO_1) · [Demo](https://URL_DEMO_1.com) |
-| **NOMBRE DEL PROYECTO 2** | Describe su función principal y el resultado obtenido. | `Python` `FastAPI` `Docker` | [Código](https://github.com/TU_USUARIO/REPOSITORIO_2) · [Demo](https://URL_DEMO_2.com) |
-| **NOMBRE DEL PROYECTO 3** | Resume el proyecto, tu responsabilidad y su valor. | `C#` `.NET` `SQL Server` | [Código](https://github.com/TU_USUARIO/REPOSITORIO_3) · [Demo](https://URL_DEMO_3.com) |
-
+| **🚑 Sistema de Gestión 911** | Desarrollo y mantenimiento de aplicaciones internas para optimizar procesos operativos del Sistema Nacional de Atención a Emergencias y Seguridad 911. | `PHP` `Laravel` `JavaScript` `MySQL` | 🔒 Privado |
+| **🏥 MediSystem SaaS** | Plataforma SaaS para la administración de clínicas y consultorios médicos con gestión de pacientes, citas, historias clínicas, recetas, pagos y portal para pacientes. | `Laravel` `React` `MySQL` `REST API` | Privado |
+| **🏢 Sistema Multi Residencial** | Plataforma web para la administración de múltiples residenciales con control de accesos mediante códigos QR, visitantes, residentes y reportes administrativos. | `Laravel` `React` `MySQL` `QR` | Privado |
+| **📊 Dashboard de Disponibilidad Zabbix** | Dashboard para visualizar disponibilidad de infraestructura y servicios, consumiendo información directamente desde la base de datos de Zabbix con filtros y exportación de reportes. | `Laravel` `MariaDB` `Chart.js` | Privado |
+| **📡 Sistema de Inventario de Radios** | Sistema de inventario para la gestión de radios de comunicación, mantenimientos, préstamos, historial y control por roles de usuario. | `Laravel` `MySQL` `Bootstrap` | Privado |
+| **🌐 Sistema de Planta Externa** | Plataforma para administrar equipos, sitios, almacenes y mantenimientos de infraestructura, incluyendo mapas interactivos y geolocalización. | `Laravel` `Leaflet` `MySQL` | Privado |
+| **📶 Drive Test Analyzer** | Aplicación para procesar archivos de mediciones de red móvil, generando mapas interactivos y exportando resultados a Excel, HTML y KML. | `Laravel` `Leaflet` `JavaScript` | Privado |
+| **💰 Personal Finance Manager** | Aplicación para el control de finanzas personales con múltiples cuentas, tarjetas, presupuestos y estadísticas de ingresos y gastos. | `Next.js` `TypeScript` `MySQL` | En desarrollo |
+| **🏠 HomeLab Infrastructure** | Infraestructura personal para experimentación con servidores, Docker, NAS, Ubuntu Server, virtualización y automatización de servicios. | `Docker` `Linux` `Ubuntu Server` `Networking` | En desarrollo |
+| **🎓 UAPAVerse** | Plataforma web para la ExpoCADESOFT Virtual de la UAPA con dashboard administrativo, gestión de proyectos y stands virtuales. | `Next.js` `React` `TypeScript` `Tailwind CSS` | Privado |
 
 ## 🤝 Contacto
 
