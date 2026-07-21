@@ -70,16 +70,6 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=algolia&hide_border=true"/>
 </p>
 
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=EzequielRHD&theme=algolia&no-frame=true&column=4"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EzequielRHD&theme=tokyo-night"/>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/EzequielRHD/EzequielRHD/output/github-contribution-grid-snake.svg"/>
-</p>
 ## 🚀 Proyectos destacados
 
 <!-- Reemplaza estos ejemplos con tus mejores proyectos. -->
