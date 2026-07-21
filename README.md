@@ -67,7 +67,7 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
   </a>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=algolia&hide_border=false"/>
 </p>
 
 ## 🚀 Proyectos destacados
