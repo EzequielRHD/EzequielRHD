@@ -69,7 +69,7 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 </p>
 <div align="center">
 <img width="70%"
-src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=EzequielRHD&theme=angolia&hide_border=true"/>
 
 </div>
 ## 🚀 Proyectos destacados
