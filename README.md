@@ -62,10 +62,10 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 <div align="center">
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/EzequielRHD">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielRHD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/EzequielRHD">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
