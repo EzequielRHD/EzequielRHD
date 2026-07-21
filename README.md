@@ -97,6 +97,158 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 <div align="center">
 
+
+<p align="center">
+  <img src="./3146b75d-4d6d-44b0-81e9-3576ffa80e7b.png" width="100%" alt="Banner de Ezequiel Rodríguez">
+</p>
+
+<h1 align="center">¡Hola! 👋 Soy Ezequiel Rodríguez</h1>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • DevOps Enthusiast
+</h3>
+
+<p align="center">
+Construyendo software escalable, automatizando procesos y creando soluciones que generan impacto.
+</p>
+
+<p align="center">
+
+<a href="https://TU_PORTAFOLIO.com">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visitar-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ezerodhd@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=EzequielRHD&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 👨🏻‍💻 Sobre mí
+
+💼 Actualmente trabajo como **Software Engineer** en el **Sistema Nacional de Atención a Emergencias y Seguridad 911**.
+
+🚀 Me apasiona desarrollar aplicaciones web modernas, construir arquitecturas escalables y automatizar procesos mediante tecnología.
+
+💻 Disfruto trabajar tanto en el frontend como en el backend, creando soluciones completas y enfocadas en una excelente experiencia de usuario.
+
+🐳 También me interesa el mundo de DevOps, Docker, Linux, servidores y la administración de infraestructura.
+
+🏠 Actualmente estoy construyendo mi propio **HomeLab**, donde experimento con virtualización, NAS, servidores y automatización.
+
+📚 Siempre estoy aprendiendo nuevas tecnologías para seguir creciendo como ingeniero de software.
+
+---
+
+# 🛠 Tecnologías y Herramientas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,express,python,cs,mysql,postgres,docker,linux,git,github,postman,vscode,figma,arduino&theme=dark"/>
+
+</p>
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Actividad
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EzequielRHD&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Logros
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EzequielRHD&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🚑 Sistema 911 | Desarrollo y mantenimiento de soluciones internas para el Sistema Nacional de Atención a Emergencias y Seguridad 911. | Laravel • PHP • MySQL |
+| 🏥 MediSystem SaaS | Plataforma SaaS para la administración de clínicas y consultorios médicos. | Laravel • React • MySQL |
+| 🏢 Sistema Multi Residencial | Plataforma para la gestión de residenciales con acceso mediante códigos QR. | Laravel • React • MySQL |
+| 📊 Dashboard de Monitoreo | Dashboard para visualización y análisis de infraestructura y servicios. | React • Node.js |
+| 🏠 HomeLab | Laboratorio personal con Docker, Linux, NAS y automatización de servicios. | Docker • Ubuntu Server |
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- 🐳 Docker & Containers
+- ☁️ DevOps
+- ⚙️ Kubernetes
+- 🚀 Arquitectura de Software
+- 🏠 HomeLab
+- 🤖 Inteligencia Artificial aplicada al desarrollo
+
+---
+
+# 🤝 Conectemos
+
+<p align="center">
+
+<a href="mailto:ezerodhd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ezerodhd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Ezequiel_Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://TU_PORTAFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-Visitar-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Gracias por visitar mi perfil.
+
+_"Code. Learn. Build. Repeat."_
+
+</p>
+
 ### Gracias por visitar mi perfil
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=EzequielRHD&color=0A66C2&style=for-the-badge&label=VISITAS+AL+PERFIL)
