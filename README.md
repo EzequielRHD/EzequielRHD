@@ -59,30 +59,22 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ## 📊 Estadísticas de GitHub
 
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/EzequielRHD">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EzequielRHD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/EzequielRHD">
-      <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=algolia)"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+</p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Ezequiel" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados por Ezequiel" />
 <img width="70%" src="https://streak-stats.demolab.com?user=EzequielRHD&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Ezequiel" />
 
-<p align="center">
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=EzequielRHD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</p>
 ## 🚀 Proyectos destacados
 
 <!-- Reemplaza estos ejemplos con tus mejores proyectos. -->
