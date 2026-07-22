@@ -11,7 +11,7 @@
 Construyo soluciones eficientes, escalables y centradas en las personas.
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-Visitar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielrodriguez-57a9b7215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielrodriguezhd)
 [![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezerodhd@gmail.com)
 
 </div>
@@ -90,7 +90,7 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ¿Tienes una idea, una oportunidad profesional o un proyecto en el que podamos colaborar? Escríbeme:
 
-- 💼 LinkedIn: [Ezequiel Rodriguez](https://www.linkedin.com/in/ezequielrodriguez-57a9b7215)
+- 💼 LinkedIn: [Ezequiel Rodriguez](https://www.linkedin.com/in/ezequielrodriguezhd)
 - 🌐 Portafolio: [](https://TU_PORTAFOLIO.com)
 - 📧 Correo: [ezerodhd@gmail.com](mailto:ezerodhd@gmail.com)
 
