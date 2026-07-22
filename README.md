@@ -73,9 +73,6 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
   />
 </p>
 
-## 🚀 Proyectos destacados
-
-<!-- Reemplaza estos ejemplos con tus mejores proyectos. -->
 
 ## 🚀 Proyectos Destacados
 
@@ -93,7 +90,7 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
 
 ¿Tienes una idea, una oportunidad profesional o un proyecto en el que podamos colaborar? Escríbeme:
 
-- 💼 LinkedIn: [](https://www.linkedin.com/in/ezequielrodriguez-57a9b7215)
+- 💼 LinkedIn: [Ezequiel Rodriguez](https://www.linkedin.com/in/ezequielrodriguez-57a9b7215)
 - 🌐 Portafolio: [](https://TU_PORTAFOLIO.com)
 - 📧 Correo: [ezerodhd@gmail.com](mailto:ezerodhd@gmail.com)
 
