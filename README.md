@@ -71,11 +71,6 @@ Soy desarrollador de software con interés en crear productos digitales útiles,
     height="180em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielRHD&theme=algolia&hide_border=false&border_radius=6"
   />
-
-  <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielRHD&layout=compact&langs_count=8&theme=algolia"
-/>
 </p>
 
 
